@@ -6,6 +6,6 @@ This file is the template for the first lab in Ashesi Web Development 2020.
 
 This repository contains a single file, a script for gathering the basic configuration of the user from bash.
 
-## Using the file
+## Introduction
 
-Please refer to your lab instructions for definitive directions. In general, clone this repository to a new repository in your user space.
+My name is Sylvia Asabea Atakora. I am in 3rd year, studying Management Information Systems. This is my first lab for the Web Technologies course in 2020.
