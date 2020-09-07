@@ -9,3 +9,5 @@ This repository contains a single file, a script for gathering the basic configu
 ## Introduction
 
 My name is Sylvia Asabea Atakora. I am in 3rd year, studying Management Information Systems. This is my first lab for the Web Technologies course in 2020.
+## Link to website
+ https://sylviaatakora.github.io/lab-1/
